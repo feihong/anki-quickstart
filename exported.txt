@@ -1,0 +1,4 @@
+#separator:tab
+#html:true
+This is inline MathJax:&nbsp;\(\sqrt{x}\). This is display a MathJax block:<br><br>\[\sqrt{\frac{x^y}{2}}\]<br>	nothing to see here
+\[{\sum}_{i = 1}^{n} {i}^{3} = {\left(\frac{n \left(n + 1\right)}{2}\right)}^{2}\]<br>	woohoo
