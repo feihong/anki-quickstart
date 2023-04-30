@@ -15,3 +15,4 @@ It's possible to import cards containing MathJax (TeX). See `exported.txt` for a
 ## Links
 
 - [AsciiMath syntax](http://asciimath.org/#syntax)
+- [Anki Manual: Math & Symbols](https://docs.ankiweb.net/math.html)
