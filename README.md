@@ -12,6 +12,8 @@ Install Python and run
 
 It's possible to import cards containing MathJax (TeX). See `exported.txt` for an example.
 
+You must replace any instances of consecutive braces (e.g. `}}`) with brace+space (e.g. `} } `) so as to not conflict with the Cloze delimiter `}}`. See [Cloze Conflicts section](https://docs.ankiweb.net/math.html#cloze-conflicts) of Anki Manual.
+
 ## Links
 
 - [AsciiMath syntax](http://asciimath.org/#syntax)
