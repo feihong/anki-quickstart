@@ -1,4 +1,5 @@
 #separator:tab
 #html:true
-<p>This is inline MathJax:&nbsp;\(\sqrt{x}\). This is display a MathJax block:</p>\[\sqrt{\frac{x^y}{2}}\]	answer
-\[{\sum}_{i = 1}^{n} {i}^{3} = {\left(\frac{n \left(n + 1\right)}{2}\right)}^{2}\]	woohoo
+The general equation of a {{c1::circle}} is {{c2::\((x – h)^2 + (y – k)^2 = r^2\)}}, where  \((h,k)\) represents {{c3::the center}} and \(r\)  represents the {{c3::radius}}
+(Inline) The formula for the {{c1::Pythagorean theorem}} is {{c2::\(c^2=a^2+b^2\)}}, where \(c\) represents the {{c1::hypotenuse}}
+<p>(Block) The formula for the {{c1::Pythagorean theorem}} is</p><p>{{c2::\[c^2=a^2+b^2\]}}</p><p>where \(c\) represents the {{c1::hypotenuse}}</p>
