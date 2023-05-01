@@ -14,7 +14,10 @@ It's possible to import cards containing MathJax (TeX). See `exported.txt` for a
 
 You must replace any instances of consecutive braces (e.g. `}}`) with brace+space (e.g. `} } `) so as to not conflict with the Cloze delimiter `}}`. See [Cloze Conflicts section](https://docs.ankiweb.net/math.html#cloze-conflicts) of Anki Manual.
 
+Anki tags cannot contain spaces. They can contain underscores, though.
+
 ## Links
 
 - [AsciiMath syntax](http://asciimath.org/#syntax)
 - [Anki Manual: Math & Symbols](https://docs.ankiweb.net/math.html)
+- [Anki Manual: File Headers](https://docs.ankiweb.net/importing.html#file-headers)
