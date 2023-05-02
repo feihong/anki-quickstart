@@ -1,0 +1,19 @@
+# Notes Example
+
+## Miscellaneous
+
+The general equation of a {{c1::circle}} is {{c2::$(x – h)^2 + (y – k)^2 = r^2$}}, where $(h,k)$ represents {{c3::the center}} and $r$ represents the {{c3::radius}}
+-
+The formula for the {{c1::Pythagorean theorem}} is {{c2::$c^2=a^2+b^2$}}, where $c$ represents the {{c1::hypotenuse}}
+
+## Algebra
+
+The {{c1::quadratic formula}} is
+
+{{c2::$$(-b +- sqrt(b^2 - 4ac))/(2 a)$$}}
+
+where $a, b, c$ are constants and {{c3::$a!=0$}}
+-
+{{c1::Completing the square}} is a technique for converting $ax^2 + bx + c$ to the form {{c2::$ a(x-h)^2 + k $}} for some values of h and k
+-
+Given any monic quadratic $x^2 + bx + c$, {{c1::completing the square}} will yield {{c2::$ (x + 1/2b)^2 + c - b^2/4 $}}
