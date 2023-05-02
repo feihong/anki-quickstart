@@ -1,6 +1,9 @@
-#separator:tab
+#separator:semicolon
 #html:true
+#notetype column: 1
 #tags column: 2
-The general equation of a {{c1::circle}} is {{c2::\((x – h)^2 + (y – k)^2 = r^2\)}}, where  \((h,k)\) represents {{c3::the center}} and \(r\)  represents the {{c3::radius}}	circle
-The formula for the {{c1::Pythagorean theorem}} is {{c2::\(c^2=a^2+b^2\)}}, where \(c\) represents the {{c1::hypotenuse}}	"pythagorean theorem"
-<p>The {{c1::quadratic formula}} is</p><p>{{c2::\[\frac{-b \pm \sqrt{b^2 - 4ac} } {2 a}\]}}</p><p>where \(a, b, c\) are constants and {{c3::\(a!=0\)}}</p>	quadratic
+#columns:notetype;tags;front;back
+cloze;circle;The general equation of a {{c1::circle}} is {{c2::\((x – h)^2 + (y – k)^2 = r^2\)}}, where  \((h,k)\) represents {{c3::the center}} and \(r\) represents the {{c3::radius}};p. 55
+cloze;pythagorean theorem;The formula for the {{c1::Pythagorean theorem}} is {{c2::\(c^2=a^2+b^2\)}}, where \(c\) represents the {{c1::hypotenuse}};p. 12
+cloze;algebra formula;<p>The {{c1::quadratic formula}} is</p><p>{{c2::\[\frac{-b \pm \sqrt{b^2 - 4ac} } {2 a}\]}}</p><p>where \(a, b, c\) are constants and {{c3::\(a!=0\)}}</p>;p. 36
+basic;functions;\(Dom(f)\) denotes what?;The domain of a function, which is the set of allowed input values for a function
