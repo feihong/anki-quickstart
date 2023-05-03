@@ -16,7 +16,7 @@ You must replace any instances of consecutive braces (e.g. `}}`) with brace+spac
 
 Anki tags cannot contain spaces. They can contain underscores, though.
 
-`ASCIIMath2Tex`'s `translate` method always surrounds its output in delimiters.
+Anki doesn't allow cloze deletions inside MathJax elements.
 
 ## Links
 
