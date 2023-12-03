@@ -4,9 +4,16 @@
 
 Download [Anki](https://apps.ankiweb.net/), open .dmg file, drag into Applications.
 
-Install Python and run 
+Install Python and run
 
     pip install --requirement requirements.txt
+
+## Commands
+
+Create a new app in your `~/Applications` that runs Anki but uses its own
+separate user data folder.
+
+    make anki
 
 ## Notes
 
@@ -23,3 +30,5 @@ Anki doesn't allow cloze deletions inside MathJax elements.
 - [AsciiMath syntax](http://asciimath.org/#syntax)
 - [Anki Manual: Math & Symbols](https://docs.ankiweb.net/math.html)
 - [Anki Manual: File Headers](https://docs.ankiweb.net/importing.html#file-headers)
+- [How to make Mac app with shell
+  script](https://apple.stackexchange.com/a/269045)
